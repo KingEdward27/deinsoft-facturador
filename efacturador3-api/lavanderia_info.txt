@@ -1,0 +1,41 @@
+PEREZ DELGADO BLANCA NERI (LAVANDERIA)
+=========================
+
+10414316595
+INHUESTO
+tatiumege
+
+USUARIO CLAVE RENIEC CDT
+===================
+10414316595
+10414316595ABC
+
+USUARIO SECUNDARIO
+==================
+41431659
+43165959Aa$
+yg.estudiocontable1@gmail.com
+
+EBOLETAS
+Eboletas123
+yg.estudiocontable1@gmail.com
+
+por pagar y descuento 100% como se comporta
+anulacion boletas
+monitor
+
+VER TEMA DE ADELANTOS
+VER TRIGGERS
+ver reporte de ventas y total caja
+VER TEMA DE PAGOS CON TARJETA
+
+primero sacar bk
+revisar trigger y modificar si es necesario, pagos a cuenta
+revisar envio api
+llamar a sunat perfil
+revisión anulación
+
+validacion igv en detalle al enviar
+actualizar
+actualizar igv al generar comrobante
+permitir generar comprobante en a cuenta

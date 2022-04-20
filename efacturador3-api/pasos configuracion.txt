@@ -1,0 +1,10 @@
+Pasos
+======
+1. Copiar carpetas en ruta base donde se alamcenarán los archivos de las empresa
+2. Modificar path en el properties donde estaran las carpetas (Ejm: D://DEFACT/)
+3. Crear carpeta con ruc de la nueva empresa a registrar y colocar private key en la carpeta CERT (ejem: D://..../20534999616/CERT/LLAMA-PE-CERTIFICADO-DEMO-20518964756.pfx)
+4. Registrar empresa por postman
+
+info:
+ver logs azure:
+https://deinsoft-facturador.scm.azurewebsites.net/api/logstream

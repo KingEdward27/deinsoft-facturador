@@ -1,0 +1,27 @@
+sufijos
+=======
+ventas -> act_
+compras, inventario -> inv_
+configuracion -> cnf_
+secguridad -> seg_
+
+llaves primarias
+================
+<nombre de la tabla>_id
+act_venta
+act_venta_id
+
+llaves foraneas
+================
+<nombre de la tabla 1>_<nombre de la tabla 2>_fk
+act_venta_act_venta_linea_fk
+
+tablas deben ser en singular
+============================
+act_venta
+pk_act_venta_id
+
+ubigeo
+======
+cnf_distrito, cnf_province, cnf_region
+
